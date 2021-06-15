@@ -1,8 +1,7 @@
 ---
-title: A Blog That Works
+title: Collection of Creative Outputs
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
+  Here are the content that we have created throughout the semester.
 author: "Leif Gio Villanueva"
 show_post_thumbnail: true
 show_author_byline: true

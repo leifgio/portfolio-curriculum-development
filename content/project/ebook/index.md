@@ -18,3 +18,10 @@ links:
   name: code
   url: https://github.com/leifgio/TTL2
 ---
+
+### A sample view of the E-book
+ [Technology for Teaching and Learning E-book](https://leifgio.github.io/TTL2)
+
+<iframe width="900" height="510" src="https://leifgio.github.io/TTL2" title="YouTube video player" frameborder="0">iframe>
+
+<iframe>https://leifgio.github.io/TTL2/</iframe>
