@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, you can call me Leif. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I'm a 20-something Filipino from Cavite who studies in Technological University of the Philippines for a degree in Education. I've been tasked with bringing an student point of view to a blog creation. :flag-ph:

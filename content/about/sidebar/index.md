@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Leif Gio Villanueva"
+role: "Future Educator"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
 audio_link_label: "How to say my name"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Chess
+  url: https://en.wikipedia.org/wiki/Chess
+- name: Programming
+  url: https://en.wikipedia.org/wiki/Computer_programming
+- name: Travel
+  url: https://en.wikipedia.org/wiki/Travel
 ---
 
 ** index doesn't contain a body, just front matter above.
