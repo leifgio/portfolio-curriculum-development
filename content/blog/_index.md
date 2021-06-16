@@ -1,5 +1,5 @@
 ---
-title: Collection of Creative Outputs
+title: Collection of Blogs Related in Technology for Teaching and Learning
 description: |
   Here are the content that we have created throughout the semester.
 author: "Leif Gio Villanueva"
@@ -29,6 +29,6 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /blo
+    text_link_url: /blog
 ---
 

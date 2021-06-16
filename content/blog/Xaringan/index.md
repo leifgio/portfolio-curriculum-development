@@ -2,7 +2,7 @@
 title: "How to Create Xaringan Slides"
 subtitle: "Outline of digital graphic platform."
 excerpt: "Simple yet easy to create presentations."
-date: 2021-05-24
+date: 2021-05-31
 author: "Leif Gio Villanueva"
 draft: false
 # layout options: single, single-sidebar

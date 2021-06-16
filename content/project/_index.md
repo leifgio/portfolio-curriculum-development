@@ -1,7 +1,6 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: A Personal Project Collection
+description: "You can see my works from different subjects"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

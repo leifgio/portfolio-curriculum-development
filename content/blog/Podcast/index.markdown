@@ -1,8 +1,8 @@
 ---
-title: "Podcast"
+title: "Podcast Activities in Technology for Teaching and Learning"
 subtitle: "Collaboration with BTTE"
 excerpt: "Hear the ideas of the class"
-date: 2021-05-26
+date: 2021-05-10
 author: "Leif Gio Villanueva"
 draft: false
 layout: single-sidebar
