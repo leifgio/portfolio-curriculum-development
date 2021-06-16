@@ -2,7 +2,7 @@
 title: "Teaching about Tablets for Schools"
 subtitle: "Tablets as a textbooks in school."
 excerpt: "A video recording of our group report."
-date: 2021-06-21
+date: 2021-06-10
 author: "Leif Gio Villanueva"
 draft: false
 # layout options: single, single-sidebar
