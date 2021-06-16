@@ -11,19 +11,15 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: Always be mindful about the little things
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
+    Your mental health matters. 
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+    Protect yourself from unnecessary pain.
   author: "Leif Gio Villanueva"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  show_sidebar_adunit: false # show ad container
-
+  show_sidebar_adunit: false # 
 # set up common front matter for all pages inside blog/
 cascade:
   author: "Leif Gio Villanueva"
@@ -33,8 +29,6 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /blog/
-    show_sidebar_adunit: false # show ad container
+    text_link_url: /blo
 ---
 
-** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**

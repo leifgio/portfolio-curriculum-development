@@ -12,8 +12,8 @@ link_list:
   url: https://leifdomain.000webhostapp.com/
 - name: Programming
   url: https://en.wikipedia.org/wiki/Computer_programming
-- name: Travel
-  url: https://en.wikipedia.org/wiki/Travel
+- name: Teaching
+  url: https://en.wikipedia.org/wiki/Education
 ---
 
 ** index doesn't contain a body, just front matter above.

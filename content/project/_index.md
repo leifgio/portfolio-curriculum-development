@@ -10,12 +10,11 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Always be mindful about the little things
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    Your mental health matters.
+    Protect yourself from unnecessary pain.
+  author: "Leif Gio Villanueva"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container

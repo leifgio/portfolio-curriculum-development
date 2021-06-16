@@ -4,7 +4,7 @@ subtitle: "Future Educator"
 description: "Welcome to my personal website."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/filipino.jpg
+  - img/filipino.png
 image_left: true
 text_align_left: true
 show_social_links: true # specify social accounts in site config

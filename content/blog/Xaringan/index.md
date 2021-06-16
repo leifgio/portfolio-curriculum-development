@@ -1,14 +1,12 @@
 ---
 title: "How to Create Xaringan Slides"
 subtitle: "Outline of digital graphic platform."
-excerpt: "Add tabbed sections with code and results."
+excerpt: "Simple yet easy to create presentations."
 date: 2021-05-24
 author: "Leif Gio Villanueva"
 draft: false
 # layout options: single, single-sidebar
-layout: single
-categories:
-- evergreen
+layout: single-sidebar
 ---
 
 ### Introduction
