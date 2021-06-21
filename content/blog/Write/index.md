@@ -2,7 +2,7 @@
 title: "Learn More About Using Tablets in Schools"
 subtitle: "More Resources about tablets for learning"
 excerpt: "Know Beyond the Basics of Using Tablets in Schools"
-date: 2021-06-23
+date: 2021-06-20
 author: "Janelle Cox"
 draft: false
 layout: single-sidebar
