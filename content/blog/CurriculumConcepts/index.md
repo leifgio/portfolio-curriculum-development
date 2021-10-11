@@ -1,7 +1,7 @@
 ---
 title: "Concepts, Nature and Purposes of Curriculum"
 subtitle: "Two point of views in curriculum."
-excerpt: ""
+excerpt: "You are about to look inside the mind of a dedicated student"
 date: 2021-10-11
 author: "Leif Gio Villanueva"
 draft: false
