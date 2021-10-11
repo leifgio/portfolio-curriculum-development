@@ -1,7 +1,7 @@
 ---
-title: Collection of Blogs Related in Technology for Teaching and Learning
+title: My Journey and Discoveries During My College Days
 description: |
-  Here are the content that we have created throughout the semester.
+  Stay updated on the knowledge that I can sure as a Learner
 author: "Leif Gio Villanueva"
 show_post_thumbnail: true
 show_author_byline: true
