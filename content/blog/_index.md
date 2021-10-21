@@ -1,7 +1,7 @@
 ---
 title: My Journey and Discoveries During My College Days
 description: |
-  Stay updated on the knowledge that I can sure as a Learner
+  Stay updated on the knowledge that I can share as a Learner
 author: "Leif Gio Villanueva"
 show_post_thumbnail: true
 show_author_byline: true
