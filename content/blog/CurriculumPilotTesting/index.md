@@ -1,7 +1,7 @@
 ---
 title: "Pilot Testing, Monitoring and Evaluating the Curriculum"
 subtitle: "What is Pilot Testing in Curriculum?"
-excerpt: ""
+excerpt: "Another laborious process in implementing the curriculum, why?"
 date: 2021-11-22
 author: "Leif Gio Villanueva"
 draft: false
