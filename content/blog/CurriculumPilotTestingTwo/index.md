@@ -1,7 +1,7 @@
 ---
 title: "Pilot Testing Part 2"
-subtitle: ""
-excerpt: ""
+subtitle: "What are the importance of School-Based Evaluation and Accreditation?"
+excerpt: "Other people say that &quot;history repeats itself&quot; this statement is also true in curriculum development"
 date: 2021-11-29
 author: "Leif Gio Villanueva"
 draft: false
