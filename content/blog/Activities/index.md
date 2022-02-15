@@ -56,6 +56,12 @@ links:
 
 ---
 
+### Lesson 10 Intended vs. Implemented vs. Achieved Curriculum
+
+![image](intended.png)
+
+[download here](intended.pdf)
+
 ### Lesson 11 - School Based Evaluation and Accreditation
 ![image](objectives.png)
 
@@ -64,6 +70,6 @@ links:
 ----
 
 ### Lesson 16 - Curriculum Innovation
-![image](innovation.png)
+![image](innovaation.png)
 
 [download here](Villanueva_Lesson11.pdf)
