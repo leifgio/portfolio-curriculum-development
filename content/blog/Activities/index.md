@@ -70,6 +70,6 @@ links:
 ----
 
 ### Lesson 16 - Curriculum Innovation
-![image](innovaation.png)
+![image](innovation.png)
 
 [download here](Villanueva_Lesson11.pdf)
