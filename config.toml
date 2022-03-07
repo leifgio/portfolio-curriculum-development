@@ -61,7 +61,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Alegreya Sans "
+  customtextFontFamily = "Alegreya Sans"
   customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -94,20 +94,10 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Talks"
+    title = "Talks"
+    url = "/talks/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 4
-     [[menu.header]]
-     name = "Portfolio"
-    title = "Project Portfolio"
-    url = "/blog/Activities"
-    weight = 3
 
 
     
