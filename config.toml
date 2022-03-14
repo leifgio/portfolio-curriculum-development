@@ -94,10 +94,20 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talks/"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
     weight = 2
+  [[menu.header]]
+    name = "Portfolio"
+    title = "Portfolio"
+    url = "/portfolio/"
+    weight = 3
+  [[menu.header]]
+    name = "Project"
+    title = "Project"
+    url = "/project/"
+    weight = 4
 
 
     
